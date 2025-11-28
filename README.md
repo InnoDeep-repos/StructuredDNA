@@ -60,19 +60,7 @@ Unlike dense MoE which activates multiple experts probabilistically (High Cost),
 ![Architecture Diagram](./images/architecture_contrast.png)
 *(Note: Upload your Mermaid/Block diagram comparison image here)*
 
-
 ---
-✍️ Citation
-If you use this code or concept in your research, please cite:
-@article{hamdi2025structureddna,
-  title={StructuredDNA v2: A Bio-Physical Framework for Modular and Energy-Aware AI},
-  author={Hamdi, Mustapha},
-  journal={InnoDeep Research / NVIDIA Inception},
-  year={2025}
-}
-
----
-
 
 ## 🛠️ Installation & Usage
 
