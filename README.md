@@ -60,7 +60,19 @@ Unlike dense MoE which activates multiple experts probabilistically (High Cost),
 ![Architecture Diagram](./images/architecture_contrast.png)
 *(Note: Upload your Mermaid/Block diagram comparison image here)*
 
+
 ---
+✍️ Citation
+If you use this code or concept in your research, please cite:
+@article{hamdi2025structureddna,
+  title={StructuredDNA v2: A Bio-Physical Framework for Modular and Energy-Aware AI},
+  author={Hamdi, Mustapha},
+  journal={InnoDeep Research / NVIDIA Inception},
+  year={2025}
+}
+
+---
+
 
 ## 🛠️ Installation & Usage
 
@@ -71,16 +83,29 @@ This repository includes a Jupyter Notebook that reproduces the experiments, pro
 * NVIDIA GPU (Recommended: T4 or better for accurate power profiling)
 * CUDA Toolkit
 
+ 
 ### Setup
-```bash
+ ```bash
 git clone [https://github.com/YourUsername/StructuredDNA.git](https://github.com/YourUsername/StructuredDNA.git)
 cd StructuredDNA
 pip install -r requirements.txt
+``` 
 
-###✍️ Citation
+---
+✍️ Citation
+If you use this code or concept in your research, please cite:
 @article{hamdi2025structureddna,
   title={StructuredDNA v2: A Bio-Physical Framework for Modular and Energy-Aware AI},
   author={Hamdi, Mustapha},
   journal={InnoDeep Research / NVIDIA Inception},
   year={2025}
 }
+
+---
+👤 Author
+Dr. Mustapha Hamdi
+
+Founder & AI Technical Director @ InnoDeep
+
+
+ https://www.linkedin.com/in/mustapha-hamdi  | Email :mustapha.hamdi@innodeep.net
