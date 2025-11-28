@@ -77,6 +77,7 @@ git clone [https://github.com/YourUsername/StructuredDNA.git](https://github.com
 cd StructuredDNA
 pip install -r requirements.txt
 
+###✍️ Citation
 @article{hamdi2025structureddna,
   title={StructuredDNA v2: A Bio-Physical Framework for Modular and Energy-Aware AI},
   author={Hamdi, Mustapha},
