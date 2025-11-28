@@ -76,3 +76,10 @@ This repository includes a Jupyter Notebook that reproduces the experiments, pro
 git clone [https://github.com/YourUsername/StructuredDNA.git](https://github.com/YourUsername/StructuredDNA.git)
 cd StructuredDNA
 pip install -r requirements.txt
+
+@article{hamdi2025structureddna,
+  title={StructuredDNA v2: A Bio-Physical Framework for Modular and Energy-Aware AI},
+  author={Hamdi, Mustapha},
+  journal={InnoDeep Research / NVIDIA Inception},
+  year={2025}
+}
