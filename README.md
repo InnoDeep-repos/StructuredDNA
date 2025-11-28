@@ -31,13 +31,14 @@ Validated on **NVIDIA T4 GPUs** using the **BioASQ** biomedical dataset and **Bi
 | **Semantic Stability Index (SSI)** | **0.998** (vs 0.989) | **Surpasses the dense baseline**, proving superior structural coherence. |
 | **Semantic Perplexity** | **8.74** | High compression of meaning with minimal uncertainty. |
 
+![Bio-computational parallelism.](./images/fig11.png)
 ### 📊 Visual Proof of Efficiency
 
 **Figure 1: Comparative Energy Efficiency (Log Scale)**
 *StructuredDNA (Green) vs. Switch-MoE (Red). The logarithmic scale highlights the orders-of-magnitude reduction in energy cost per document.*
 
-![Energy Efficiency Graph](./images/energy_efficiency_log.png)
-*(Note: Upload your 'Comparative Energy Efficiency' image to an 'images' folder in your repo)*
+![Energy Efficiency Graph](./images/fig2.png)
+ 
 
 ---
 
@@ -57,8 +58,8 @@ Where:
 ### Architectural Contrast
 Unlike dense MoE which activates multiple experts probabilistically (High Cost), StructuredDNA finds the single, stable energetic path (Low Cost).
 
-![Architecture Diagram](./images/architecture_contrast.png)
-*(Note: Upload your Mermaid/Block diagram comparison image here)*
+![Architecture Diagram](./images/fig1.png)
+ 
 
 ---
 
