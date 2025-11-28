@@ -58,7 +58,7 @@ Where:
 ### Architectural Contrast
 Unlike dense MoE which activates multiple experts probabilistically (High Cost), StructuredDNA finds the single, stable energetic path (Low Cost).
 
-![Architecture Diagram](./images/fig1.png)
+![Architecture Diagram](./images/fige1.png)
  
 
 ---
