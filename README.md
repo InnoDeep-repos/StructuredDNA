@@ -16,7 +16,7 @@ Inspired by the hierarchical structure of DNA (Codons → Genes) and molecular b
 
 This repository contains the **Proof-of-Concept (PoC)** code, validation metrics, and the full white paper demonstrating the superiority of this sparse, energy-guided architecture over dense Mixture-of-Experts (MoE) baselines.
 
-🔗 **[Read the Full White Paper (PDF)](./StructuredDNA_v2_WhitePaper.pdf)** *(Link to be updated)*
+🔗 **[Read the Full White Paper (PDF)](./StructuredDNA_v2_Arxiv.pdf)**  
 
 ---
 
